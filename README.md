@@ -228,7 +228,7 @@ and instead considers multiple product attributes together.
 ## 📈 05 — Trend Over Time
 
 <p align="center">
-  <img src="./dashboard/screenshots/Trend Over Time.png" width="900">
+  <img src="./screenshots/Trend Over Time.png" width="900">
 </p>
 
 **Purpose:** Monitor price behavior across historical scraping snapshots.
