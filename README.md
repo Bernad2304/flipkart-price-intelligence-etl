@@ -176,7 +176,7 @@ Provides a starting point for exploring the overall dataset and navigating into 
 ## 💰 02 — Price Overview
 
 <p align="center">
-  <img src="./dashboard/screenshots/Price Overview.png" width="900">
+  <img src="/screenshots/Price Overview.png" width="900">
 </p>
 
 **Purpose:** Understand the distribution and behavior of product prices.
@@ -194,7 +194,7 @@ Focus areas include:
 ## 📱 03 — Product Overview
 
 <p align="center">
-  <img src="./dashboard/screenshots/Product Overview.png" width="900">
+  <img src="/screenshots/Product Overview.png" width="900">
 </p>
 
 **Purpose:** Explore individual products and their characteristics.
@@ -212,7 +212,7 @@ The page helps analyze product-level information such as:
 ## 🏷️ 04 — Deal & Value Analysis
 
 <p align="center">
-  <img src="./dashboard/screenshots/Deal & Value Analysis.png" width="900">
+  <img src="/screenshots/Deal & Value Analysis.png" width="900">
 </p>
 
 **Purpose:** Identify products that appear attractive based on pricing, discount, rating, and engineered value metrics.
@@ -228,7 +228,7 @@ and instead considers multiple product attributes together.
 ## 📈 05 — Trend Over Time
 
 <p align="center">
-  <img src="./screenshots/Trend Over Time.png" width="900">
+  <img src="/screenshots/Trend Over Time.png" width="900">
 </p>
 
 **Purpose:** Monitor price behavior across historical scraping snapshots.
@@ -246,7 +246,7 @@ As additional daily snapshots accumulate, this page can support:
 ## 🏢 06 — Brand & Segment Deep-Dive
 
 <p align="center">
-  <img src="./dashboard/screenshots/Brand & Segment Deep-Dive.png" width="900">
+  <img src="/screenshots/Brand & Segment Deep-Dive.png" width="900">
 </p>
 
 **Purpose:** Analyze how brands are positioned across different market segments.
@@ -446,39 +446,6 @@ Accumulate daily snapshots to enable:
 * Deal/value analysis
 * Brand analysis
 * Market segmentation
-
----
-
-# 📁 Project Structure
-
-```text
-flipkart-price-intelligence-etl/
-│
-├── dashboard/
-│   └── screenshots/
-│       ├── Home.png
-│       ├── Price Overview.png
-│       ├── Product Overview.png
-│       ├── Deal & Value Analysis.png
-│       ├── Trend Over Time.png
-│       └── Brand & Segment Deep-Dive.png
-│
-├── src/
-│   ├── 01_scrape_products
-│   ├── 02_clean_data
-│   └── 03_feature_engineering
-│
-├── data/
-│   └── final_products.csv
-│
-├── workflows/
-│   └── n8n workflow
-│
-├── api/
-│   └── FastAPI application
-│
-└── README.md
-```
 
 ---
 
