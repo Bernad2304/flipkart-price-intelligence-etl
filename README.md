@@ -164,7 +164,7 @@ The final Power BI solution contains **6 analytical pages**, moving from a high-
 ## 🏠 01 — Home
 
 <p align="center">
-  <img src="./dashboard/screenshots/Home.png" width="900">
+  <img src="/screenshots/Home.png" width="900">
 </p>
 
 **Purpose:** High-level snapshot of the mobile phone marketplace.
