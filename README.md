@@ -212,7 +212,8 @@ The page helps analyze product-level information such as:
 ## 🏷️ 04 — Deal & Value Analysis
 
 <p align="center">
-  <img src="/screenshots/Deal & Value Analysis.png" width="900">
+  <img src="/screenshots/Deal &  Value Analysis.png" width="900">
+  screenshots/Deal &  Value Analysis.png
 </p>
 
 **Purpose:** Identify products that appear attractive based on pricing, discount, rating, and engineered value metrics.
