@@ -65,10 +65,10 @@ The workflow combines:
 <p align="center">
 
 <b>🕸️ Scrape</b>
-  →   <b>🧹 Clean</b>
-  →   <b>⚙️ Engineer</b>
-  →   <b>💾 Store</b>
-  →   <b>📊 Analyze</b>
+  →   <b>🧹 Clean</b>
+  →   <b>⚙️ Engineer</b>
+  →   <b>💾 Store</b>
+  →   <b>📊 Analyze</b>
 
 </p>
 
@@ -212,8 +212,7 @@ The page helps analyze product-level information such as:
 ## 🏷️ 04 — Deal & Value Analysis
 
 <p align="center">
-  <img src="/screenshots/Deal &  Value Analysis.png" width="900">
-  screenshots/Deal &  Value Analysis.png
+  <img src="screenshots/deal-value-analysis.png" width="900">
 </p>
 
 **Purpose:** Identify products that appear attractive based on pricing, discount, rating, and engineered value metrics.
@@ -393,10 +392,8 @@ Accumulate daily snapshots to enable:
 <img src="https://img.shields.io/badge/FastAPI-API-009688?logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/Selenium-Scraping-43B02A?logo=selenium&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-Data%20Wrangling-150458?logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-Analytics-013243?logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Power%20BI-BI-F2C811?logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/DAX-Analytics-0078D4">
-<img src="https://img.shields.io/badge/SQL-Querying-4479A1?logo=mysql&logoColor=white">
 
 </p>
 
@@ -420,7 +417,7 @@ Accumulate daily snapshots to enable:
 * DOM-based extraction
 * Scraping reliability considerations
 
-### 🧹 Data Engineering
+### 🧹 Data Preparation & Feature Engineering
 
 * Data cleaning
 * Deduplication
@@ -467,7 +464,7 @@ but also:
 | Area                     | Tools                                           |
 | ------------------------ | ----------------------------------------------- |
 | ⚙️ Automation            | n8n, FastAPI, Python                            |
-| 🕸️ Data Collection      | Selenium, BeautifulSoup                         |
+| 🕸️ Data Collection      | Selenium                                        |
 | 🐍 Data Wrangling        | Pandas, NumPy                                   |
 | 📈 Business Intelligence | Power BI, DAX, Power Query                      |
 | 🗄️ Querying             | SQL                                             |
